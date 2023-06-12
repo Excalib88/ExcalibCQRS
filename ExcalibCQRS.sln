@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcalibCQRS.Web", "ExcalibCQRS.Web\ExcalibCQRS.Web.csproj", "{24720B8F-51F6-421F-A849-9C6C5FB8A5C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcalibCQRS.Infrastructure", "ExcalibCQRS.Infrastructure\ExcalibCQRS.Infrastructure.csproj", "{BC10BBDD-3499-49D8-8A42-624729F9EFD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcalibCQRS.Domain", "ExcalibCQRS.Domain\ExcalibCQRS.Domain.csproj", "{5822F2C2-1BCA-4839-9E96-EEA492248043}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcalibCQRS.Application", "ExcalibCQRS.Application\ExcalibCQRS.Application.csproj", "{E36C193F-4788-4BC0-881E-3ABC13C53591}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24720B8F-51F6-421F-A849-9C6C5FB8A5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24720B8F-51F6-421F-A849-9C6C5FB8A5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24720B8F-51F6-421F-A849-9C6C5FB8A5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24720B8F-51F6-421F-A849-9C6C5FB8A5C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC10BBDD-3499-49D8-8A42-624729F9EFD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC10BBDD-3499-49D8-8A42-624729F9EFD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC10BBDD-3499-49D8-8A42-624729F9EFD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC10BBDD-3499-49D8-8A42-624729F9EFD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5822F2C2-1BCA-4839-9E96-EEA492248043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5822F2C2-1BCA-4839-9E96-EEA492248043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5822F2C2-1BCA-4839-9E96-EEA492248043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5822F2C2-1BCA-4839-9E96-EEA492248043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E36C193F-4788-4BC0-881E-3ABC13C53591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E36C193F-4788-4BC0-881E-3ABC13C53591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E36C193F-4788-4BC0-881E-3ABC13C53591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E36C193F-4788-4BC0-881E-3ABC13C53591}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
